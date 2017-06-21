@@ -57,17 +57,17 @@ git push origin feature/add-kevin-bio
 
 # Project Roster
 
-Developer|Phase One| Phase 2|Phase 3|
-----|---|---|
-Kevin Oh|
-Irma Mesa|
-Matthew Sweeney|
-Diomedes Lajara|
-George Escobar|
-Ivan Prunier|
-Adam Akers|
-Drew Hill|
-Mary Chapman|
-Seth Jones|
-Marce Mar|
-Maryellen M|
+Developer|Phase One|Phase 2|Phase 3|
+---------|---------|-------|-------|
+Kevin Oh|||
+Irma Mesa|||
+Matthew Sweeney|||
+Diomedes Lajara|||
+George Escobar|||
+Ivan Prunier|||
+Adam Akers|||
+Drew Hill|||
+Mary Chapman|||
+Seth Jones|||
+Marce Mar|||
+Maryellen M|||

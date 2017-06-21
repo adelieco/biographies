@@ -33,7 +33,7 @@ git commit -m "#1 Added Kevin's bio
 
 * Added kevin-o.bio.md
 * Edited some other thing 
-* Did some other junk
+* Did some other junk"
 ```
 11. Push your changes to the repository.
 ```bash

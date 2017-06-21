@@ -3,7 +3,7 @@
 This project will be a place for everyone to practice using git branches, as well as using Github as a project management tool. This will be the first of several projects! Also, the "stuff" you write here will be used in the actual Adelie website, on the page for the Developer's Group, so please don't use junk or filler data.
 
 ## Phase One: Basics
-1. Go to the [Issues page for the project](https://github.com/adelieco/biographies/issues) and find the Issue number for you.
+1. Go to the [Issues page for the project](https://github.com/adelieco/biographies/issues) and find the Issue number for you. (If you don't have one, you can create one for yourself. Copy the example for the other issues.)
 2. Clone the repository:
 ```
 git clone git@github.com:adelieco/biographies.git

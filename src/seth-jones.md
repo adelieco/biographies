@@ -1,0 +1,1 @@
+Seth is an aspiring Front-End Developer from Philadelphia. He is currently studying full-time with a focus on Node and React, while also sharpening his algorithm skills like a Hattori Hanzo blade. He has a kitten named Prince Dunkin the First of Philadelphia, and spends his free time geeking out on food at one of many delicious grub spots around the city.

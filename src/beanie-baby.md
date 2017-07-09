@@ -1,0 +1,1 @@
+Beanie is a FE dev in Ohio. He is a beanie baby. He's trying to learn Angular4 so he can get a job in Ohio, ohio.
